@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+7a151580cc7063555a955944ff263dc2 blinky/CMakeFiles/blinky-program
+12afb7386c1ac3ff75ee30feac3d5da7 blinky/CMakeFiles/blinky.bin
+a5c58edc6df3aa12d6e6d15e6c269d2f blinky/CMakeFiles/blinky.dfu
+852f13390de6e2cfdb6cda5d4a7f35b5 blinky/CMakeFiles/blinky_m0.bin

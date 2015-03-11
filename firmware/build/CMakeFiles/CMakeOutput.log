@@ -1,0 +1,8 @@
+The target system is: Generic - 1 - arm
+The host system is: Linux - 3.16.0-31-generic - x86_64
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc (4.8.3-11ubuntu1+11) 4.8.3 20140913 (release)
+Copyright (C) 2013 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+

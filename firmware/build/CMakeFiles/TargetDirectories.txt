@@ -1,0 +1,6 @@
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky-program.dir
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky.bin.dir
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky.dfu.dir
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky.elf.dir
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky_m0.bin.dir
+/home/spacehog/src/microdev/openDAC/firmware/build/blinky/CMakeFiles/blinky_m0.elf.dir

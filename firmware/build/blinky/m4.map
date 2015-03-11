@@ -1,0 +1,429 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+                              CMakeFiles/blinky.elf.dir/blinky.c.obj (gpio_set)
+/home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+                              CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj (scu_pinmux)
+/home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                              (reset_handler)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .group         0x0000000000000000        0x8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000      0x886 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000       0x16 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000       0x44 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000      0x209 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000      0x170 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000000000      0x6e5 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .text.gpio_toggle
+                0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .text.gpio_get
+                0x0000000000000000       0x10 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x16 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x44 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x209 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x22 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xfa /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x170 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x0000000000000000     0x111a /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .text          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .data          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .bss           0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000      0x856 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000       0x16 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000       0x44 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000      0x209 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000       0x22 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000       0xfa /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x0000000000000000      0x170 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000      0x856 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000       0x16 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000       0x44 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000      0x209 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000000000000 0x0000000000020000 xr
+ram_local1       0x0000000010000000 0x0000000000020000 xrw
+ram_local2       0x0000000010080000 0x0000000000010000 xrw
+ram_sleep        0x0000000010090000 0x0000000000002000 xrw
+rom_flash        0x0000000080000000 0x0000000000100000 xr
+ram_m0           0x0000000020000000 0x0000000000007000 xrw
+ram_shared       0x0000000020007000 0x0000000000001000 xrw
+ram_usb          0x0000000020008000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/blinky.elf.dir/blinky.c.obj
+LOAD CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+LOAD CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+LOAD /usr/lib/arm-none-eabi/lib/armv7e-m/fpu/libc.a
+LOAD /usr/lib/arm-none-eabi/lib/armv7e-m/fpu/libnosys.a
+LOAD /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a
+LOAD /usr/lib/arm-none-eabi/lib/armv7e-m/fpu/libm.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.8/armv7e-m/fpu/libgcc.a
+LOAD /usr/lib/arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+                0x0000000020008000                usb_bulk_buffer = ORIGIN (ram_usb)
+
+.text           0x0000000000000000      0x5c0
+                0x0000000000000000                . = ALIGN (0x400)
+                0x0000000000000000                _text_ram = 0x0
+ *(.vectors)
+ .vectors       0x0000000000000000      0x114 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                0x0000000000000000                vector_table
+ *(.text*)
+ .text.startup  0x0000000000000114       0x6c CMakeFiles/blinky.elf.dir/blinky.c.obj
+                0x0000000000000114                main
+ .text          0x0000000000000180      0x194 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+                0x0000000000000180                delay
+                0x000000000000018e                cpu_clock_pll1_low_speed
+                0x00000000000001bc                cpu_clock_init
+                0x0000000000000274                cpu_clock_pll1_max_speed
+                0x00000000000002c4                pin_setup
+ .text.gpio_set
+                0x0000000000000314        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+                0x0000000000000314                gpio_set
+ .text.gpio_clear
+                0x000000000000031c        0x8 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+                0x000000000000031c                gpio_clear
+ .text.scu_pinmux
+                0x0000000000000324        0x4 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+                0x0000000000000324                scu_pinmux
+ .text.blocking_handler
+                0x0000000000000328        0x4 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                0x0000000000000328                adc0_isr
+                0x0000000000000328                qei_isr
+                0x0000000000000328                spi_isr
+                0x0000000000000328                usart3_isr
+                0x0000000000000328                rtc_isr
+                0x0000000000000328                gint1_isr
+                0x0000000000000328                timer1_isr
+                0x0000000000000328                i2c0_isr
+                0x0000000000000328                usart0_isr
+                0x0000000000000328                blocking_handler
+                0x0000000000000328                pin_int1_isr
+                0x0000000000000328                ssp1_isr
+                0x0000000000000328                spifi_isr
+                0x0000000000000328                gint0_isr
+                0x0000000000000328                i2c1_isr
+                0x0000000000000328                ritimer_isr
+                0x0000000000000328                dac_isr
+                0x0000000000000328                usage_fault_handler
+                0x0000000000000328                sdio_isr
+                0x0000000000000328                dma_isr
+                0x0000000000000328                ethernet_isr
+                0x0000000000000328                c_can0_isr
+                0x0000000000000328                hard_fault_handler
+                0x0000000000000328                eventrouter_isr
+                0x0000000000000328                usb0_isr
+                0x0000000000000328                m0core_isr
+                0x0000000000000328                uart1_isr
+                0x0000000000000328                pin_int6_isr
+                0x0000000000000328                usart2_isr
+                0x0000000000000328                pin_int5_isr
+                0x0000000000000328                timer2_isr
+                0x0000000000000328                pin_int0_isr
+                0x0000000000000328                mem_manage_handler
+                0x0000000000000328                sct_isr
+                0x0000000000000328                pin_int2_isr
+                0x0000000000000328                timer3_isr
+                0x0000000000000328                lcd_isr
+                0x0000000000000328                pin_int7_isr
+                0x0000000000000328                ssp0_isr
+                0x0000000000000328                atimer_isr
+                0x0000000000000328                sgpio_isr
+                0x0000000000000328                i2s0_isr
+                0x0000000000000328                wwdt_isr
+                0x0000000000000328                pin_int3_isr
+                0x0000000000000328                adc1_isr
+                0x0000000000000328                mcpwm_isr
+                0x0000000000000328                timer0_isr
+                0x0000000000000328                i2s1_isr
+                0x0000000000000328                bus_fault_handler
+                0x0000000000000328                usb1_isr
+                0x0000000000000328                pin_int4_isr
+                0x0000000000000328                c_can1_isr
+ .text.null_handler
+                0x000000000000032c        0x4 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                0x000000000000032c                null_handler
+                0x000000000000032c                sv_call_handler
+                0x000000000000032c                pend_sv_handler
+                0x000000000000032c                debug_monitor_handler
+                0x000000000000032c                sys_tick_handler
+                0x000000000000032c                nmi_handler
+ .text.reset_handler
+                0x0000000000000330      0x100 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                0x0000000000000330                reset_handler
+                0x0000000000000430                . = ALIGN (0x4)
+ *(.rodata*)
+                0x0000000000000430                . = ALIGN (0x4)
+                0x0000000000000430                PROVIDE (__m0_start__, .)
+ *(.m0_bin*)
+ .m0_bin        0x0000000000000430      0x190 CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+                0x00000000000005c0                . = ALIGN (0x4)
+                0x00000000000005c0                PROVIDE (__m0_end__, .)
+
+.glue_7         0x00000000000005c0        0x0
+ .glue_7        0x00000000000005c0        0x0 linker stubs
+
+.glue_7t        0x00000000000005c0        0x0
+ .glue_7t       0x00000000000005c0        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000005c0        0x0
+ .vfp11_veneer  0x00000000000005c0        0x0 linker stubs
+
+.v4_bx          0x00000000000005c0        0x0
+ .v4_bx         0x00000000000005c0        0x0 linker stubs
+
+.iplt           0x00000000000005c0        0x0
+ .iplt          0x00000000000005c0        0x0 CMakeFiles/blinky.elf.dir/blinky.c.obj
+
+.rel.dyn        0x00000000000005c0        0x0
+ .rel.iplt      0x00000000000005c0        0x0 CMakeFiles/blinky.elf.dir/blinky.c.obj
+
+.preinit_array  0x00000000000005c0        0x0
+                0x00000000000005c0                . = ALIGN (0x4)
+                0x00000000000005c0                __preinit_array_start = .
+ *(.preinit_array)
+                0x00000000000005c0                __preinit_array_end = .
+
+.init_array     0x00000000000005c0        0x0
+                0x00000000000005c0                . = ALIGN (0x4)
+                0x00000000000005c0                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00000000000005c0                __init_array_end = .
+
+.fini_array     0x00000000000005c0        0x0
+                0x00000000000005c0                . = ALIGN (0x4)
+                0x00000000000005c0                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00000000000005c0                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+ *(.ARM.extab*)
+
+.ARM.exidx      0x00000000000005c0        0x0
+                0x00000000000005c0                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00000000000005c0                __exidx_end = .
+                0x00000000000005c0                . = ALIGN (0x4)
+                0x00000000000005c0                _etext = .
+                0x0000000000000000                _etext_ram = 0x0
+                0x0000000000000000                _etext_rom = 0x0
+                0x0000000010080000                . = ORIGIN (ram_local2)
+
+.data           0x0000000010080000        0x0 load address 0x00000000000005c0
+                0x0000000010080000                _data = .
+ *(.data*)
+                0x0000000010080000                . = ALIGN (0x4)
+                0x0000000010080000                _edata = .
+                0x00000000000005c0                _data_loadaddr = LOADADDR (.data)
+                0x00000000000005c0                _data_rom = (LOADADDR (.data) + ORIGIN (rom))
+                0x00000000000005c0                _edata_rom = (_data_rom + SIZEOF (.data))
+
+.igot.plt       0x0000000010080000        0x0 load address 0x00000000000005c0
+ .igot.plt      0x0000000010080000        0x0 CMakeFiles/blinky.elf.dir/blinky.c.obj
+
+.bss            0x0000000010080000       0x10 load address 0x00000000000005c0
+                0x0000000010080000                _bss = .
+ *(.bss*)
+ .bss           0x0000000010080000       0x10 CMakeFiles/blinky.elf.dir/blinky.c.obj
+                0x0000000010080000                boot0
+                0x0000000010080004                boot1
+                0x0000000010080008                boot2
+                0x000000001008000c                boot3
+ *(COMMON)
+                0x0000000010080010                . = ALIGN (0x4)
+                0x0000000010080010                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000010080010                . = ALIGN (0x4)
+                0x0000000010080010                end = .
+                0x000000001008ffe0                __StackTop = ((ORIGIN (ram_local2) + 0x10000) - 0x20)
+                0x000000001008ffe0                PROVIDE (_stack, __StackTop)
+OUTPUT(blinky.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x1652
+ .debug_info    0x0000000000000000      0x15f CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_info    0x000000000000015f      0x8d8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_info    0x0000000000000a37      0x148 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_info    0x0000000000000b7f      0x7bc /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_info    0x000000000000133b      0x317 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_abbrev   0x0000000000000000      0x44e
+ .debug_abbrev  0x0000000000000000       0xdf CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_abbrev  0x00000000000000df       0xf7 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_abbrev  0x00000000000001d6       0x8c /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_abbrev  0x0000000000000262       0x84 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_abbrev  0x00000000000002e6      0x168 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_loc      0x0000000000000000      0x29a
+ .debug_loc     0x0000000000000000       0x92 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_loc     0x0000000000000092       0xd9 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_loc     0x000000000000016b       0x21 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_loc     0x000000000000018c      0x10e /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_aranges  0x0000000000000000       0xc8
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_aranges
+                0x0000000000000020       0x20 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_aranges
+                0x0000000000000040       0x38 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_aranges
+                0x0000000000000078       0x20 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_aranges
+                0x0000000000000098       0x30 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_ranges   0x0000000000000000       0x88
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_ranges  0x0000000000000010       0x28 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_ranges  0x0000000000000038       0x10 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_ranges  0x0000000000000048       0x40 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x5daf
+ .debug_macro   0x0000000000000000       0x84 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000084      0x886 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x000000000000090a       0x16 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000920       0x44 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000964      0x209 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000b6d       0x22 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000b8f       0xfa CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000c89      0x170 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000000df9     0x111a CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x0000000000001f13      0x6e5 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x00000000000025f8       0xbe CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_macro   0x00000000000026b6       0x93 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000002749       0xb8 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000002801      0x100 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000002901      0xd34 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000003635     0x1120 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_macro   0x0000000000004755       0x72 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x00000000000047c7      0x856 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_macro   0x000000000000501d       0x72 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x000000000000508f      0x6df /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_macro   0x000000000000576e       0xb9 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000005827       0x52 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000005879       0x6b /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x00000000000058e4      0x124 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+ .debug_macro   0x0000000000005a08      0x3a7 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_line     0x0000000000000000      0xadd
+ .debug_line    0x0000000000000000      0x299 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_line    0x0000000000000299      0x2ba CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_line    0x0000000000000553      0x18a /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_line    0x00000000000006dd      0x157 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_line    0x0000000000000834      0x2a9 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_str      0x0000000000000000    0x146f0
+ .debug_str     0x0000000000000000     0xb901 CMakeFiles/blinky.elf.dir/blinky.c.obj
+                                       0xba54 (size before relaxing)
+ .debug_str     0x000000000000b901     0x6b96 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+                                      0x1257c (size before relaxing)
+ .debug_str     0x0000000000012497      0x10c /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+                                       0x90b5 (size before relaxing)
+ .debug_str     0x00000000000125a3       0x1c /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+                                       0x644d (size before relaxing)
+ .debug_str     0x00000000000125bf     0x2131 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+                                       0x5371 (size before relaxing)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 CMakeFiles/blinky.elf.dir/blinky.c.obj
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .comment       0x0000000000000033       0x34 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .comment       0x0000000000000033       0x34 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .comment       0x0000000000000033       0x34 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.ARM.attributes
+                0x0000000000000000       0x37
+ .ARM.attributes
+                0x0000000000000000       0x39 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .ARM.attributes
+                0x0000000000000039       0x39 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .ARM.attributes
+                0x0000000000000072       0x25 CMakeFiles/blinky.elf.dir/m0_bin.s.obj
+ .ARM.attributes
+                0x0000000000000097       0x39 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .ARM.attributes
+                0x00000000000000d0       0x39 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .ARM.attributes
+                0x0000000000000109       0x39 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
+
+.debug_frame    0x0000000000000000      0x158
+ .debug_frame   0x0000000000000000       0x28 CMakeFiles/blinky.elf.dir/blinky.c.obj
+ .debug_frame   0x0000000000000028       0x80 CMakeFiles/blinky.elf.dir/__/common/opendac_core.c.obj
+ .debug_frame   0x00000000000000a8       0x50 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(gpio.o)
+ .debug_frame   0x00000000000000f8       0x20 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(scu.o)
+ .debug_frame   0x0000000000000118       0x40 /home/spacehog/src/microdev/openDAC/firmware/blinky/../../firmware/libopencm3/lib/libopencm3_lpc43xx.a(vector.o)
