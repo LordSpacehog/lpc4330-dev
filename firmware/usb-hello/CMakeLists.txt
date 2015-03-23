@@ -1,4 +1,5 @@
-# Copyright 2013 Jared Boone <jared@sharebrained.com>
+# Copyright 2012 Michael Ossmann <mike@ossmann.com>
+# Copyright 2012 Jared Boone <jared@sharebrained.com>
 #
 # This file is part of HackRF.
 #
@@ -16,8 +17,17 @@
 # along with this program; see the file COPYING.  If not, write to
 # the Free Software Foundation, Inc., 51 Franklin Street,
 # Boston, MA 02110-1301, USA.
+#
 
-	.data
-	.section	.m0_bin, "ax"
-	
-	.incbin		"blinky_m0.bin"
+cmake_minimum_required(VERSION 2.8.9)
+set(CMAKE_TOOLCHAIN_FILE ../toolchain-arm-cortex-m.cmake)
+
+project(usb-hello)
+
+include(../opendac-common.cmake)
+
+set(SRC_M4
+	usb-hello.c
+)
+
+DeclareTargets()

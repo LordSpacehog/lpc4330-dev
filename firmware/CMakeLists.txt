@@ -4,3 +4,4 @@ set(CMAKE_TOOLCHAIN_FILE toolchain-arm-cortex-m.cmake)
 project (opendac_firmware_all)
 
 add_subdirectory(blinky)
+add_subdirectory(usb-hello)

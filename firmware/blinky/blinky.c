@@ -28,7 +28,10 @@ int main(void)
 {
 	int i;
 	pin_setup();
-
+	
+	cpu_clock_init();
+	cpu_clock_pll1_max_speed();
+	
 	/* Blink LED1/2/3 on the board and Read BOOT0/1/2/3 pins. */
 	while (1) 
 	{
